@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b955b95e-bf7d-4222-80c8-412d83009654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/customer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/status.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerManagementSystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerManagementSystem/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerManagementSystem/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerManagementSystem/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -32,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -47,6 +53,28 @@
       <option name="presentableId" value="Default" />
       <updated>1595584495431</updated>
     </task>
+    <task id="LOCAL-00001" summary="added urls and views">
+      <created>1595600017108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595600017108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added urls and views" />
+    <option name="LAST_COMMIT_MESSAGE" value="added urls and views" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595600015393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595600015393" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595600025578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595600025578" />
   </component>
 </project>
