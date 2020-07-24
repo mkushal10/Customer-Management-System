@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b955b95e-bf7d-4222-80c8-412d83009654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/customer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/status.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerManagementSystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerManagementSystem/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,21 +51,29 @@
       <option name="project" value="LOCAL" />
       <updated>1595600017108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Static Files &amp; Images">
+      <created>1595606959580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595606959580</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added urls and views" />
-    <option name="LAST_COMMIT_MESSAGE" value="added urls and views" />
+    <MESSAGE value="Static Files &amp; Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static Files &amp; Images" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595600015393">
+    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595606957653">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595600015393" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595600025578">
+    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595606957653" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595606965528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595600025578" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595606965528" />
   </component>
 </project>
