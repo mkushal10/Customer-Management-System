@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b955b95e-bf7d-4222-80c8-412d83009654" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/customer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/status.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/status.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595609153794</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Rendering Data to Templates">
+      <created>1595610366376</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595610366376</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -83,16 +91,21 @@
     <MESSAGE value="Static Files &amp; Images" />
     <MESSAGE value="Database Models &amp; Admin Panel" />
     <MESSAGE value="Database Relationships | One To Many &amp; Many to Many" />
-    <option name="LAST_COMMIT_MESSAGE" value="Database Relationships | One To Many &amp; Many to Many" />
+    <MESSAGE value="Rendering Data to Templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rendering Data to Templates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595609152767">
+    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595610364912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595609152767" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595609163978">
+    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595610364912" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595610375260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595609163978" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595610375260" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1595647967952">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595647967952" />
   </component>
 </project>
