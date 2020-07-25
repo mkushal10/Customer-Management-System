@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b955b95e-bf7d-4222-80c8-412d83009654" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/aaccount_settings.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerManagementSystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerManagementSystem/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerManagementSystem/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerManagementSystem/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595662211032</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="User Role Based Permissions &amp; Authentication">
+      <created>1595662723778</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1595662723778</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,14 +144,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="User Role Based Permissions &amp; Authentication" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595662209372">
+    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595662722888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595662209372" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595662216156">
+    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595662722888" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595662728805">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595662216156" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595662728805" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1595647967952">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
