@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b955b95e-bf7d-4222-80c8-412d83009654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/accounts/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerManagementSystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerManagementSystem/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/customer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/order_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/order_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/templates/accounts/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/templates/accounts/navbar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595652748432</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Filter Form Table Search">
+      <created>1595659720218</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1595659720218</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,17 +125,18 @@
     <MESSAGE value="Dynamic URL's" />
     <MESSAGE value="CRUD" />
     <MESSAGE value="CRUD updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="CRUD updated" />
+    <MESSAGE value="Filter Form Table Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Filter Form Table Search" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595652746763">
+    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595659718288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595652746763" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595652752191">
+    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595659718288" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595659724552">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595652752191" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595659724552" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1595647967952">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
